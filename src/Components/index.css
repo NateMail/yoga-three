@@ -1,0 +1,12 @@
+.frame {
+  background-color: lightskyblue;
+}
+
+.home-text {
+  background: #fff;
+  left: 50%;
+  top: 50%;
+  padding: 20px;
+  position: absolute;
+  transform: translate(-50%, -50%);
+}
